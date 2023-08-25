@@ -1,3 +1,4 @@
+# Датасет "Індекси РДН України та сусідніх країн"
 import pandas as pd
 import numpy as np
 from datetime import datetime
