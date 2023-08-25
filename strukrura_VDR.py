@@ -1,3 +1,4 @@
+# Датасет "Структура продажу та купівлі електроенергії на ВДР"
 import pandas as pd
 from datetime import datetime
 from datetime import timedelta
